@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Snake animation](https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/gh-pages/github-contribution-grid-snake-dark.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=C%2B%2B+%2F+DSA+Enthusiast;Competitive+Programmer;Building+Cool+Projects)](https://git.io/typing-svg)
