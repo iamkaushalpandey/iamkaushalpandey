@@ -1,29 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iamkaushalpandey/iamkaushalpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=220&section=header&text=Kaushal%20Pandey&fontSize=70&fontColor=fff&animation=twinkling" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- Animated Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+DSA+Enthusiast;Competitive+Programmer;Building+Scalable+Software;Problem+Solver" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation](https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/gh-pages/github-contribution-grid-snake-dark.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=C%2B%2B+%2F+DSA+Enthusiast;Competitive+Programmer;Building+Cool+Projects)](https://git.io/typing-svg)
-### 🎮 Play Tic-Tac-Toe on my profile!
+  <br/><br/>
 
-<!-- tictactoe start -->
-| | | |
-| :-: | :-: | :-: |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_right) |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_right) |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_right) |
+  <!-- Social & Quick Action Badges -->
+  <a href="https://github.com/iamkaushalpandey">
+    <img src="https://img.shields.io/github/followers/iamkaushalpandey?label=Followers&logo=github&style=for-the-badge&color=238636&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-Click any empty box above to start a game!
-<!-- tictactoe end -->
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+```text
+  _  __              _hh_       _ 
+ | |/ /             |  _ \     | |
+ | ' / __ _ _   _ __| |_) |__ _| |
+ |  < / _` | | | / _`  _  / _` | |
+ | . \ (_| | |_| \__, | | \ (_| |_|
+ |_|\_\__,_|\__,_|___/|_|  \__,_(_)
