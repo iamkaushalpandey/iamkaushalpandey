@@ -77,7 +77,7 @@
 
 ---
 
-### 📈 Activity Graph (commit timeline)
+### 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaushalpandey&theme=react-dark" width="100%" />
@@ -85,13 +85,11 @@
 
 ---
 
-### 🧊 Isometric Contribution Calendar (rare — most profiles don't have this)
+### 🧊 Isometric Contribution Calendar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/main/github-metrics.svg" alt="Isometric Calendar" width="100%" />
 </div>
-
-> Setup note diya hai neeche — isko `lowlighter/metrics` action se generate karna padega.
 
 ---
 
@@ -118,8 +116,6 @@
   <img src="https://leetcard.jacoblin.cool/kaushal_kex?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-> ⚠️ `kaushal_kex` ko apne real LeetCode handle se replace karo — abhi "User Not Found" isliye aa raha hai kyunki `iamkaushalpandey` LeetCode pe registered nahi hai.
-
 ---
 
 ### ⚔️ Codeforces Rating
@@ -128,8 +124,6 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kaushal_kex" alt="Codeforces Stats" />
 </div>
 
-> Ye card zyada logo ke profile me nahi milta — CP grind dikhane ke liye perfect hai.
-
 ---
 
 ### 👨‍🍳 CodeChef Rating
@@ -137,16 +131,6 @@
 <div align="center">
   <img src="https://codechef-readme-stats.vercel.app/kexy_pexy" alt="CodeChef Stats" />
 </div>
-
----
-
-### ⏱️ Weekly Coding Activity (WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark" alt="WakaTime Stats" />
-</div>
-
-> Isके liye [wakatime.com](https://wakatime.com) pe free account bana ke apne editor me plugin lagana padega, tabhi real data aayega.
 
 ---
 
@@ -166,7 +150,7 @@
 
 ---
 
-### 🌍 Visitor World Map (live visitor locations — rare widget)
+### 🌍 Visitor World Map
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/iamkaushalpandey/count.svg" alt="Visitor Count" />
@@ -174,7 +158,7 @@
 
 ---
 
-### 💭 Random Dev Quote (changes every load)
+### 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
