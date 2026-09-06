@@ -115,20 +115,28 @@
 ### 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/kaushal_kex?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-> ⚠️ `YOUR_LEETCODE_USERNAME` ko apne real LeetCode handle se replace karo — abhi "User Not Found" isliye aa raha hai kyunki `iamkaushalpandey` LeetCode pe registered nahi hai.
+> ⚠️ `kaushal_kex` ko apne real LeetCode handle se replace karo — abhi "User Not Found" isliye aa raha hai kyunki `iamkaushalpandey` LeetCode pe registered nahi hai.
 
 ---
 
 ### ⚔️ Codeforces Rating
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kaushal_kex" alt="Codeforces Stats" />
 </div>
 
-> Apna Codeforces username daalo. Ye card zyada logo ke profile me nahi milta — CP grind dikhane ke liye perfect hai.
+> Ye card zyada logo ke profile me nahi milta — CP grind dikhane ke liye perfect hai.
+
+---
+
+### 👨‍🍳 CodeChef Rating
+
+<div align="center">
+  <img src="https://codechef-readme-stats.vercel.app/kexy_pexy" alt="CodeChef Stats" />
+</div>
 
 ---
 
