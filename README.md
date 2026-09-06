@@ -14,6 +14,7 @@
   <a href="mailto:kaushal.pandey.vp@gmail.com">
     <img src="https://img.shields.io/badge/Email-kaushal.pandey.vp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=iamkaushalpandey&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -25,6 +26,7 @@
 
 - 🔭 Currently sharpening **Data Structures & Algorithms in C++**.
 - ⚡ Deep diving into **Competitive Programming**, **Distributed Systems**, and **Software Engineering**.
+- 🎯 Preparing for placements — targeting top-tier SDE roles.
 - 📬 Reach me directly at: **kaushal.pandey.vp@gmail.com**
 
 ---
@@ -50,21 +52,41 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamkaushalpandey&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamkaushalpandey&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkaushalpandey&layout=compact&theme=dark&hide=html,css" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkaushalpandey&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🎮 Play Tic-Tac-Toe on my profile!
+### 🏆 Trophy Showcase
 
-<!-- tictactoe start -->
-| | | |
-| :-: | :-: | :-: |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_top_right) |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_middle_right) |
-| [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_left) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_center) | [ ](https://github.com/iamkaushalpandey/iamkaushalpandey/issues/new?title=tt_bottom_right) |
-<!-- tictactoe end -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamkaushalpandey&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🧠 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/iamkaushalpandey?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+> Update the username above (`iamkaushalpandey`) to your actual LeetCode handle if it's different.
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/output/github-contribution-grid-snake-dark.svg" alt="3D Contributions" width="100%" />
+</div>
+
+> This one and the section below need a small **GitHub Action** in your profile repo to generate — see setup note at the bottom.
 
 ---
 
@@ -79,37 +101,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=100&section=footer" width="100%" />
 </div>
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=220&section=header&text=Kaushal%20Pandey&fontSize=70&fontColor=fff&animation=twinkling" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+DSA+Enthusiast;Competitive+Programmer;Building+Scalable+Software;Problem+Solver" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/iamkaushalpandey">
-    <img src="https://img.shields.io/github/followers/iamkaushalpandey?label=Followers&logo=github&style=for-the-badge&color=238636&logoColor=white" />
-  </a>
-  <a href="mailto:kaushal.pandey.vp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kaushal.pandey.vp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=iamkaushalpandey&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<br/>
-
----
-
-### 🖥️ System Info (Neofetch Terminal View)
-
-```text
-🔴 🟡 🟢  [kaushal@cpp-machine ~]$ neofetch
-
-    .---.          👤 User       > Kaushal Pandey
-   /     \         🎯 Role       > C++ & DSA Engineer
-  |  C++  |        🚀 Focus      > Algorithms & Distributed Systems
-   \     /         📧 Contact    > kaushal.pandey.vp@gmail.com
-    `---'          🛠️ Platform   > Linux / Docker / Kubernetes
