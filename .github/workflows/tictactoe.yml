@@ -1,0 +1,14 @@
+name: Tic Tac Toe Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  tictactoe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Play Tic Tac Toe
+        uses: TimPurdum/github-readme-game@v1.3
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
