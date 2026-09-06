@@ -31,6 +31,14 @@
 
 ---
 
+### 💻 Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=39D353&background=0D1117&center=true&vCenter=true&width=600&lines=%24+whoami;kaushal_pandey+--role%3D%22SDE+Aspirant%22;%24+cat+goals.txt;Crack+placements+%40+20+LPA%3B+Master+DSA;%24+status;Compiling+dreams...+0+errors+found" alt="Terminal Typing" />
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 #### **Languages**
@@ -47,6 +55,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+#### **Skill Meter**
+`C++`      ████████████████████░░  90%
+`DSA`      ██████████████████░░░░  82%
+`Java`     ████████████░░░░░░░░░░  60%
+`Docker`   ██████████░░░░░░░░░░░░  50%
+`Kubernetes` ████████░░░░░░░░░░░░  40%
+
 ---
 
 ### 📊 GitHub Analytics
@@ -62,6 +77,24 @@
 
 ---
 
+### 📈 Activity Graph (commit timeline)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaushalpandey&theme=react-dark" width="100%" />
+</div>
+
+---
+
+### 🧊 Isometric Contribution Calendar (rare — most profiles don't have this)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/main/github-metrics.svg" alt="Isometric Calendar" width="100%" />
+</div>
+
+> Setup note diya hai neeche — isko `lowlighter/metrics` action se generate karna padega.
+
+---
+
 ### 🏆 Trophy Showcase
 
 <div align="center">
@@ -70,13 +103,42 @@
 
 ---
 
+### 📇 Profile Summary Card
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkaushalpandey&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamkaushalpandey&theme=github_dark" />
+</div>
+
+---
+
 ### 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/iamkaushalpandey?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-> Update the username above (`iamkaushalpandey`) to your actual LeetCode handle if it's different.
+> ⚠️ `YOUR_LEETCODE_USERNAME` ko apne real LeetCode handle se replace karo — abhi "User Not Found" isliye aa raha hai kyunki `iamkaushalpandey` LeetCode pe registered nahi hai.
+
+---
+
+### ⚔️ Codeforces Rating
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME" alt="Codeforces Stats" />
+</div>
+
+> Apna Codeforces username daalo. Ye card zyada logo ke profile me nahi milta — CP grind dikhane ke liye perfect hai.
+
+---
+
+### ⏱️ Weekly Coding Activity (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark" alt="WakaTime Stats" />
+</div>
+
+> Isके liye [wakatime.com](https://wakatime.com) pe free account bana ke apne editor me plugin lagana padega, tabhi real data aayega.
 
 ---
 
@@ -86,8 +148,6 @@
   <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/output/github-contribution-grid-snake-dark.svg" alt="3D Contributions" width="100%" />
 </div>
 
-> This one and the section below need a small **GitHub Action** in your profile repo to generate — see setup note at the bottom.
-
 ---
 
 ### 🐍 Contribution Grid Snake Animation
@@ -95,6 +155,33 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
+
+---
+
+### 🌍 Visitor World Map (live visitor locations — rare widget)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iamkaushalpandey/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+### 💭 Random Dev Quote (changes every load)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 🎯 Current Focus
+
+| Area | Status |
+|---|---|
+| DSA in C++ | 🟢 Active |
+| Competitive Programming | 🟢 Active |
+| System Design basics | 🟡 Starting soon |
+| Placement Prep (Target: 20 LPA) | 🟢 Active |
 
 <br/>
 
