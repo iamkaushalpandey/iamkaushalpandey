@@ -1,7 +1,7 @@
 <div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=220&section=header&text=Kaushal%20Pandey&fontSize=70&fontColor=fff&animation=twinkling" width="100%" />
-
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+DSA+Enthusiast;Competitive+Programmer;Building+Scalable+Software;Problem+Solver" alt="Typing SVG" />
   </a>
