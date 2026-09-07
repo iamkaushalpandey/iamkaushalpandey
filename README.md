@@ -1,7 +1,7 @@
 <div align="center">
- 
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=220&section=header&text=Kaushal%20Pandey&fontSize=70&fontColor=fff&animation=twinkling" width="100%" />
- 
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+DSA+Enthusiast;Competitive+Programmer;Building+Scalable+Software;Problem+Solver" alt="Typing SVG" />
   </a>
@@ -49,16 +49,30 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **DevOps & Infrastructure Tools**
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### **Skill Meter**
 `C++`      ████████████████████░░  90%
 `DSA`      ██████████████████░░░░  82%
+`React`    ██████████████░░░░░░░░  65%
+`Node.js`  ████████████░░░░░░░░░░  60%
 `Java`     ████████████░░░░░░░░░░  60%
+`AWS`      ██████████░░░░░░░░░░░░  50%
 `Docker`   ██████████░░░░░░░░░░░░  50%
 `Kubernetes` ████████░░░░░░░░░░░░  40%
 
@@ -117,7 +131,7 @@
 </div>
 
 ---
- 
+
 ### 💭 Random Dev Quote
 
 <div align="center">
