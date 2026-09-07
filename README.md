@@ -77,22 +77,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaushalpandey&theme=react-dark" width="100%" />
-</div>
-
----
-
-### 🧊 Isometric Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/main/github-metrics.svg" alt="Isometric Calendar" width="100%" />
-</div>
-
----
-
 ### 🏆 Trophy Showcase
 
 <div align="center">
@@ -126,34 +110,10 @@
 
 ---
 
-### 👨‍🍳 CodeChef Rating
-
-<div align="center">
-  <img src="https://codechef-readme-stats.vercel.app/kexy_pexy" alt="CodeChef Stats" />
-</div>
-
----
-
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/output/github-contribution-grid-snake-dark.svg" alt="3D Contributions" width="100%" />
-</div>
-
----
-
 ### 🐍 Contribution Grid Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamkaushalpandey/iamkaushalpandey/gh-pages/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-### 🌍 Visitor World Map
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamkaushalpandey/count.svg" alt="Visitor Count" />
 </div>
 
 ---
@@ -165,17 +125,6 @@
 </div>
 
 ---
-
-### 🎯 Current Focus
-
-| Area | Status |
-|---|---|
-| DSA in C++ | 🟢 Active |
-| Competitive Programming | 🟢 Active |
-| System Design basics | 🟡 Starting soon |
-| Placement Prep (Target: 20 LPA) | 🟢 Active |
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,32,15&height=100&section=footer" width="100%" />
